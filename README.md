@@ -22,3 +22,5 @@ RingTide reserves the right to modify, suspend, or discontinue this monitoring s
 RingTide provides no support, warranty, or assistance related to the Uptime Kuma software itself. Any bugs, issues, or technical limitations within the Uptime Kuma application are the responsibility of its original developers under the open-source project. RingTide’s responsibilities are limited exclusively to maintaining its own monitored services and internal configurations.
 
 Legal Notice: Uptime Kuma is open-source software distributed under the MIT License. RingTide does not own or develop Uptime Kuma and uses it in accordance with its license for internal monitoring of authorized systems. No commercial license is required for this usage, and all rights to the software remain with its original creators.
+
+Thank you for following Uptime Kuma's + RingTide's TOS. 
